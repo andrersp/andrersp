@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ERP Software](https://github.com/andrersp/azulerosa)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on [MRichTextEditor](https://github.com/Anchakor/MRichTextEditor)
 
